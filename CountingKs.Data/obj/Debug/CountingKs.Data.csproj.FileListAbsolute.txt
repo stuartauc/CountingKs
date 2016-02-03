@@ -1,0 +1,8 @@
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Dev\Pluralsight\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
